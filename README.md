@@ -1,5 +1,5 @@
 # Tugas 1 Big Data: ETL dengan KNIME
-*05111740000107 - Shella Agustio Nainggolan <br>
+*05111740000107 - Shella Agustio Nainggolan* <br>
 
 ![alt text](https://github.com/shellaagn/Big-Data-ETL-dengan-KNIME/blob/master/img/workflow.JPG "workflow")
 ***
